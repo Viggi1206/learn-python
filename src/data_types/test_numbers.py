@@ -3,7 +3,7 @@
 @see: https://docs.python.org/3/tutorial/introduction.html
 @see: https://www.w3schools.com/python/python_numbers.asp
 
-There are three numeric types in Python:
+There are four numeric types in Python:
 - int (e.g. 2, 4, 20)
     - bool (e.g. False and True, acting like 0 and 1)
 - float (e.g. 5.0, 1.6)
